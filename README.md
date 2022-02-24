@@ -53,5 +53,9 @@ cv.waitKey(0)
 cv.destroyAllWindows()
 ```
 
+## Demo
+![Demo 1](static/demo1.jpeg)
+![Demo 2](static/demo2.jpeg)
+
 
 
