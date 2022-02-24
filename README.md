@@ -17,6 +17,12 @@ pip install Django==4.0.2
 pip install beautifulsoup4
 ```
 
+## Beautifulsoup
+```bash
+from bs4 import BeautifulSoup
+soup = BeautifulSoup("<p>Some<b>bad<i>HTML")
+```
+
 ## Create Django Project
 ```bash
 django-admin startproject <project_name>
