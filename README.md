@@ -14,7 +14,7 @@ Install the following modules
 pip install Django==4.0.2
 ```
 ```bash
-pip install beautifulsoup4
+pip install pytube
 ```
 
 ## Create Django Project
