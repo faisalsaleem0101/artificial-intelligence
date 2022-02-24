@@ -100,3 +100,10 @@ while True:
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 ```
+
+## Demo
+Images in `images` folder
+![student image](static/Faisal_Saleem.png)
+
+Detected Face
+![demo 1](static/demo1.jpeg)
