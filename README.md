@@ -102,8 +102,8 @@ while True:
 ```
 
 ## Demo
-Images in `images` folder
-![student image](static/Faisal_Saleem.jpg)
--
-Detected Face
+Images in `images` folder <br/>
+![student image](static/Faisal_Saleem.jpg) <br/>
+
+Detected Face <br/>
 ![demo 1](static/demo1.jpeg)
