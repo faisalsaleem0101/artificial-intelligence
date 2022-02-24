@@ -103,7 +103,7 @@ while True:
 
 ## Demo
 Images in `images` folder
-![student image](static/Faisal_Saleem.png)
-
+![student image](static/Faisal_Saleem.jpg)
+-
 Detected Face
 ![demo 1](static/demo1.jpeg)
