@@ -29,4 +29,4 @@
 
 
 <h2>Screenshots :</h2>
-<img src="screenshots/1.png">
+<img src="Gender Detection or Classification/screenshots/1.png">
