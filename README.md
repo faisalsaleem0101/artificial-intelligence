@@ -6,3 +6,5 @@ This repository contains the following projects of python
 - Facial recognition & attendance system
 - Web Scrapper
 - Youtube Video Downloader
+- Cartoon Effect
+- Gender Detection
